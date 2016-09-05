@@ -2,8 +2,8 @@
 
 ![](https://github.com/AndreyAzimov/Favorite-movies-list/blob/master/screen.jpg)
 
-In scope of Udacity course [Programming Foundations with Python][udacity] I build my first web app on Python language.
-Page include the list of my favorite movies and shows their trailers.
+In scope of the Udacity course [Programming Foundations with Python][udacity] I built my first web app on Python.
+The page includes the list of my favorite movies and shows their trailers.
 
 #### [Demo][demo]
 
